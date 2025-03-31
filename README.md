@@ -14,4 +14,4 @@ Eksikler:
   -Tekerleklerin açısal hızına bağlı sürüş dinamikleri hesaba dahil edilmedi
   -Lastiklerin yanal sertlik katsayısı hesaba katılmadı
 
-  -Tüm bu eksikler doğrultusunda understeer gradient hesabı eklenmedi
+  -Tüm bu eksikler doğrultusunda understeer gradient hesabı eklenmedi 
